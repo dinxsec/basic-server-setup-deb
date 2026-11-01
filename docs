@@ -1,1 +1,10 @@
-hoi123
+For the install you need to install.
+- balenaEtcher
+- debian ISO
+
+the debian ISO is the OS we are going to be using its based on the linux kernel you can install it from.  
+https://www.debian.org/download
+
+After you installed the ISO we need to flash the ISO on the usb. we are going to do this using balenaEtcher. You can get balenaEtcher on.
+https://etcher.balena.io/
+
